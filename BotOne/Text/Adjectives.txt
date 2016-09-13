@@ -1,0 +1,4 @@
+fine
+thisdoor
+strong
+weak

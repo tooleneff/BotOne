@@ -23,7 +23,7 @@ namespace BotOne.Helpers
         };
         public async Task<string> ChangeWords(string inputString)
         {
-            
+            var Dict = new Dictionary<string, List<string>>();
             List<ReplacementPair> pairs = new List<ReplacementPair>();
             
             // Analyze text with all available analyzers
@@ -43,6 +43,7 @@ namespace BotOne.Helpers
                 if (item.analyzerID == LangAnalyzers.List["Tree"])
                 {
                     posResults = item.result.ToString().Split('(', ')');
+
                     Regex ItemRegex = new Regex(@"\((\w+) (\w+)\)", RegexOptions.Compiled);
                     foreach (Match ItemMatch in ItemRegex.Matches(item.result.ToString()))
                     {
@@ -54,7 +55,6 @@ namespace BotOne.Helpers
 
                 }
             }
-            //File.WriteAllText(@"D:\TEMP\tempbot.txt", resultsAsJson+results[0].analyzerID.ToString());
 
             foreach (var item in posResults)
             {

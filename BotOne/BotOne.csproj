@@ -141,6 +141,7 @@
     <Compile Include="Helpers\LangAnalyzers.cs" />
     <Compile Include="Helpers\LinguisticHelper.cs" />
     <Compile Include="Helpers\WordsHelper.cs" />
+    <Compile Include="Model\POSElement.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
