@@ -1,0 +1,13 @@
+D:\BOT\Cognitive-LinguisticAnalysis\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.Linguistics.dll
+D:\BOT\Cognitive-LinguisticAnalysis\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.Linguistics.pdb
+D:\BOT\Cognitive-LinguisticAnalysis\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\BOT\Cognitive-LinguisticAnalysis\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\BOT\Cognitive-LinguisticAnalysis\ClientLibrary\obj\Debug\LinguisticsClient.csprojResolveAssemblyReference.cache
+D:\BOT\Cognitive-LinguisticAnalysis\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.Linguistics.dll
+D:\BOT\Cognitive-LinguisticAnalysis\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.Linguistics.pdb
+D:\BOT\BotOne\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.Linguistics.dll
+D:\BOT\BotOne\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.Linguistics.pdb
+D:\BOT\BotOne\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\BOT\BotOne\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\BOT\BotOne\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.Linguistics.dll
+D:\BOT\BotOne\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.Linguistics.pdb

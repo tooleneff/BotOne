@@ -1,0 +1,6 @@
+D:\BOT\BotOne\ClientLibrary\bin\Release\Microsoft.ProjectOxford.Linguistics.dll
+D:\BOT\BotOne\ClientLibrary\bin\Release\Microsoft.ProjectOxford.Linguistics.pdb
+D:\BOT\BotOne\ClientLibrary\bin\Release\Newtonsoft.Json.dll
+D:\BOT\BotOne\ClientLibrary\bin\Release\Newtonsoft.Json.xml
+D:\BOT\BotOne\ClientLibrary\obj\Release\Microsoft.ProjectOxford.Linguistics.dll
+D:\BOT\BotOne\ClientLibrary\obj\Release\Microsoft.ProjectOxford.Linguistics.pdb

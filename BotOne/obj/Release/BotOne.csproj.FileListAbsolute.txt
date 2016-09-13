@@ -1,0 +1,44 @@
+D:\BOT\BotOne\BotOne\bin\Bot Application1.dll.config
+D:\BOT\BotOne\BotOne\bin\Bot Application1.dll
+D:\BOT\BotOne\BotOne\bin\Bot Application1.pdb
+D:\BOT\BotOne\BotOne\bin\Autofac.dll
+D:\BOT\BotOne\BotOne\bin\Chronic.dll
+D:\BOT\BotOne\BotOne\bin\Microsoft.Bot.Builder.dll
+D:\BOT\BotOne\BotOne\bin\Microsoft.Bot.Connector.dll
+D:\BOT\BotOne\BotOne\bin\Microsoft.IdentityModel.Logging.dll
+D:\BOT\BotOne\BotOne\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\BOT\BotOne\BotOne\bin\Microsoft.IdentityModel.Tokens.dll
+D:\BOT\BotOne\BotOne\bin\Microsoft.ProjectOxford.Linguistics.dll
+D:\BOT\BotOne\BotOne\bin\Microsoft.Rest.ClientRuntime.dll
+D:\BOT\BotOne\BotOne\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\BOT\BotOne\BotOne\bin\Newtonsoft.Json.dll
+D:\BOT\BotOne\BotOne\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\BOT\BotOne\BotOne\bin\System.Net.Http.Formatting.dll
+D:\BOT\BotOne\BotOne\bin\System.Web.Http.dll
+D:\BOT\BotOne\BotOne\bin\System.Web.Http.WebHost.dll
+D:\BOT\BotOne\BotOne\bin\Microsoft.ProjectOxford.Linguistics.pdb
+D:\BOT\BotOne\BotOne\bin\Autofac.xml
+D:\BOT\BotOne\BotOne\bin\Microsoft.Bot.Builder.xml
+D:\BOT\BotOne\BotOne\bin\Microsoft.Bot.Connector.xml
+D:\BOT\BotOne\BotOne\bin\Microsoft.IdentityModel.Logging.xml
+D:\BOT\BotOne\BotOne\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\BOT\BotOne\BotOne\bin\Microsoft.IdentityModel.Tokens.xml
+D:\BOT\BotOne\BotOne\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\BOT\BotOne\BotOne\bin\Newtonsoft.Json.xml
+D:\BOT\BotOne\BotOne\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\BOT\BotOne\BotOne\bin\System.Net.Http.Formatting.xml
+D:\BOT\BotOne\BotOne\bin\System.Web.Http.xml
+D:\BOT\BotOne\BotOne\bin\System.Web.Http.WebHost.xml
+D:\BOT\BotOne\BotOne\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\BOT\BotOne\BotOne\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\BOT\BotOne\BotOne\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\BOT\BotOne\BotOne\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\BOT\BotOne\BotOne\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\BOT\BotOne\BotOne\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\BOT\BotOne\BotOne\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\BOT\BotOne\BotOne\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\BOT\BotOne\BotOne\obj\Release\BotOne.csprojResolveAssemblyReference.cache
+D:\BOT\BotOne\BotOne\obj\Release\Bot Application1.dll
+D:\BOT\BotOne\BotOne\obj\Release\Bot Application1.pdb
+D:\BOT\BotOne\BotOne\bin\Text\Adjectives.txt
+D:\BOT\BotOne\BotOne\bin\Text\Nouns.txt
